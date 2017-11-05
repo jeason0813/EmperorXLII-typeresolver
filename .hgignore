@@ -1,0 +1,12 @@
+syntax: glob
+.hg*
+$tf
+bin
+obj
+Exports
+Release
+packages
+*.suo
+*.user
+*.cache
+Commit.ps1
